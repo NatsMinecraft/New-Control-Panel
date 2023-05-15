@@ -5,4 +5,4 @@ A Dark Mode Version Of Control Panel
 
 Download Link:[![Download](https://github.com/NatsMinecraft/New-Control-Panel/releases/)]
 
-Social: [![Social Links]([https://github.com/NatsMinecraft/New-Control-Panel/releases/](https://sites.google.com/view/natsminecrafts-links/links))]
+Social: [![Social Links]((https://sites.google.com/view/natsminecrafts-links/links))]
